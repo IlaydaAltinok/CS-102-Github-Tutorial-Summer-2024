@@ -1,1 +1,27 @@
 Ilayda Altinok - 22201687- https://github.com/IlaydaAltinok - Favorite Game :Volleyball
+commit 2da8b8942c674d4f8845616919c4cdfb0f560f94
+Merge: 352710a 9ff5108
+Author: İlayda Altınok <145200810+IlaydaAltinok@users.noreply.github.com>
+Date:   Wed Jun 12 21:55:35 2024 +0300
+
+    Merge pull request #1 from IlaydaAltinok/new_information
+    
+    Ilayda Altinok added favorite game to info.txt
+
+commit 9ff5108a6f75850b41f85c854d1d17e826765a29
+Author: İlayda Altınok <145200810+IlaydaAltinok@users.noreply.github.com>
+Date:   Wed Jun 12 21:51:41 2024 +0300
+
+    Ilayda Altinok added favorite game to info.txt
+
+commit 352710a82604e5788aa997a6b3525cb122efed58
+Author: İlayda Altınok <145200810+IlaydaAltinok@users.noreply.github.com>
+Date:   Wed Jun 12 21:26:12 2024 +0300
+
+    Ilayda Alinok updated info.txt
+
+commit ca60cd56ce644f9954393300432e25de7e3f7742
+Author: İlayda Altınok <145200810+IlaydaAltinok@users.noreply.github.com>
+Date:   Wed Jun 12 20:37:15 2024 +0300
+
+    Initial commit
