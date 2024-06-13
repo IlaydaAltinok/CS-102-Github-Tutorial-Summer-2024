@@ -18,7 +18,7 @@ commit 352710a82604e5788aa997a6b3525cb122efed58
 Author: İlayda Altınok <145200810+IlaydaAltinok@users.noreply.github.com>
 Date:   Wed Jun 12 21:26:12 2024 +0300
 
-    Ilayda Alinok updated info.txt
+    Ilayda Altinok updated info.txt
 
 commit ca60cd56ce644f9954393300432e25de7e3f7742
 Author: İlayda Altınok <145200810+IlaydaAltinok@users.noreply.github.com>
